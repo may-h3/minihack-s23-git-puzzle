@@ -10,4 +10,4 @@ Look here to get started
 
 edits:
 updated if statement on line 47 to include == instead of =
-instatiated 
+instatiated nodes properly
